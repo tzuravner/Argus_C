@@ -1,0 +1,9 @@
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Projects\Argus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Projects\Argus\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
